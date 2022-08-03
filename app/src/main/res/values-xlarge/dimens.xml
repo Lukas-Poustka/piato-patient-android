@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="elevation_minus_8dp">-16dp</dimen>
+    <dimen name="elevation_minus_7dp">-14dp</dimen>
+    <dimen name="elevation_minus_6dp">-12dp</dimen>
+    <dimen name="elevation_minus_5dp">-10dp</dimen>
+    <dimen name="elevation_minus_4dp">-8dp</dimen>
+    <dimen name="elevation_minus_3dp">-6dp</dimen>
+    <dimen name="elevation_minus_2dp">-4dp</dimen>
+    <dimen name="elevation_minus_1dp">-2dp</dimen>
+    <dimen name="elevation_1dp">2dp</dimen>
+    <dimen name="elevation_2dp">4dp</dimen>
+    <dimen name="elevation_3dp">6dp</dimen>
+    <dimen name="elevation_4dp">8dp</dimen>
+    <dimen name="elevation_5dp">10dp</dimen>
+    <dimen name="elevation_6dp">12dp</dimen>
+    <dimen name="elevation_8dp">16dp</dimen>
+
+    <dimen name="padding_page_bottom_96dp">192dp</dimen>
+
+    <dimen name="margin_minus_8dp">-16dp</dimen>
+    <dimen name="margin_minus_16dp">-32dp</dimen>
+    <dimen name="margin_1dp">2dp</dimen>
+    <dimen name="margin_2dp">4dp</dimen>
+    <dimen name="margin_3dp">6dp</dimen>
+    <dimen name="margin_4dp">8dp</dimen>
+    <dimen name="margin_5dp">10dp</dimen>
+    <dimen name="margin_6dp">12dp</dimen>
+    <dimen name="margin_8dp">16dp</dimen>
+    <dimen name="margin_10dp">20dp</dimen>
+    <dimen name="margin_12dp">24dp</dimen>
+    <dimen name="margin_16dp">32dp</dimen>
+    <dimen name="margin_20dp">40dp</dimen>
+    <dimen name="margin_24dp">48dp</dimen>
+    <dimen name="margin_32dp">64dp</dimen>
+    <dimen name="margin_36dp">72dp</dimen>
+    <dimen name="margin_48dp">96dp</dimen>
+    <dimen name="margin_64dp">128dp</dimen>
+    <dimen name="margin_96dp">192dp</dimen>
+    <dimen name="margin_300dp">600dp</dimen>
+    <dimen name="margin_minus_300dp">-600dp</dimen>
+
+    <dimen name="text_size_56sp">112sp</dimen>
+    <dimen name="text_size_48sp">96sp</dimen>
+    <dimen name="text_size_40sp">80sp</dimen>
+    <dimen name="text_size_36sp">72sp</dimen>
+    <dimen name="text_size_34sp">68sp</dimen>
+    <dimen name="text_size_32sp">64sp</dimen>
+    <dimen name="text_size_30sp">60sp</dimen>
+    <dimen name="text_size_28sp">56sp</dimen>
+    <dimen name="text_size_26sp">52sp</dimen>
+    <dimen name="text_size_24sp">48sp</dimen>
+    <dimen name="text_size_22sp">44sp</dimen>
+    <dimen name="text_size_20sp">40sp</dimen>
+    <dimen name="text_size_18sp">36sp</dimen>
+    <dimen name="text_size_16sp">32sp</dimen>
+    <dimen name="text_size_14sp">28sp</dimen>
+    <dimen name="text_size_12sp">24sp</dimen>
+    <dimen name="text_size_4sp">8sp</dimen>
+    <dimen name="text_size_6sp">12sp</dimen>
+
+    <dimen name="menu_text_size_24sp">27sp</dimen>
+    <dimen name="menu_text_size_20sp">22sp</dimen>
+    <dimen name="menu_text_size_14sp">16sp</dimen>
+    <dimen name="menu_text_size_16sp">18sp</dimen>
+    <dimen name="menu_icon_size_24dp">36dp</dimen>
+    <dimen name="menu_icon_size_16dp">24dp</dimen>
+    <dimen name="menu_icon_size_4dp">6dp</dimen>
+    <dimen name="menu_icon_padding_24dp">30dp</dimen>
+    <dimen name="menu_icon_padding_28dp">36dp</dimen>
+
+    <dimen name="icon_size_3dp">6dp</dimen>
+    <dimen name="icon_size_18dp">36dp</dimen>
+    <dimen name="icon_size_24dp">48dp</dimen>
+    <dimen name="icon_size_30dp">60dp</dimen>
+    <dimen name="icon_size_36dp">72dp</dimen>
+    <dimen name="icon_size_40dp">80dp</dimen>
+    <dimen name="icon_size_48dp">96dp</dimen>
+    <dimen name="icon_size_52dp">104dp</dimen>
+    <dimen name="icon_size_56dp">108dp</dimen>
+    <dimen name="icon_size_64dp">128dp</dimen>
+    <dimen name="icon_size_72dp">144dp</dimen>
+    <dimen name="icon_padding_2dp">4dp</dimen>
+
+    <dimen name="icon_timer_width_38dp">76dp</dimen>
+    <dimen name="icon_timer_height_48dp">96dp</dimen>
+    <dimen name="image_size_128dp">256dp</dimen>
+
+    <dimen name="separator_8dp">16dp</dimen>
+
+    <dimen name="button_height_64dp">128dp</dimen>
+    <dimen name="button_corner_radius_28dp">56dp</dimen>
+
+    <dimen name="navigation_height_40dp">80dp</dimen>
+    <dimen name="navigation_height_60dp">120dp</dimen>
+    <dimen name="navigation_height_80dp">160dp</dimen>
+    <dimen name="navigation_height_90dp">180dp</dimen>
+    <dimen name="navigation_height_100dp">200dp</dimen>
+    <dimen name="navigation_height_120dp">240dp</dimen>
+    <dimen name="navigation_height_140dp">280dp</dimen>
+
+    <dimen name="card_corner_radius_8dp">16dp</dimen>
+    <dimen name="card_corner_radius_16dp">32dp</dimen>
+    <dimen name="card_corner_radius_32dp">64dp</dimen>
+    <dimen name="card_corner_radius_64dp">128dp</dimen>
+    <dimen name="card_corner_radius_128dp">256dp</dimen>
+    <dimen name="card_corner_radius_256dp">512dp</dimen>
+    <dimen name="card_corner_radius_512dp">1024dp</dimen>
+    <dimen name="progress_time_selection_item_radius">128dp</dimen>
+    <dimen name="progress_time_selection_radius">64dp</dimen>
+
+    <dimen name="horizontal_view_card_width">400dp</dimen>
+    <dimen name="horizontal_view_card_height">440dp</dimen>
+    <dimen name="horizontal_view_card_icon_size">240dp</dimen>
+    <dimen name="horizontal_view_card_icon_size_150dp">300dp</dimen>
+
+    <dimen name="slider_track_height">12dp</dimen>
+    <dimen name="slider_background_height">72dp</dimen>
+
+    <dimen name="backdrop_margin_top">192dp</dimen>
+    <dimen name="switch_height">136dp</dimen>
+
+    <dimen name="line_chart_height">400dp</dimen>
+    <dimen name="smiley_card_padding">192dp</dimen>
+
+    <dimen name="knowledge_list_item_height">200dp</dimen>
+    <dimen name="knowledge_first_item_height">300dp</dimen>
+    <dimen name="progress_time_scroller_height">200dp</dimen>
+    <dimen name="horizontal_single_select_tabs_height">88dp</dimen>
+    <dimen name="progress_time_scroller_hack">20dp</dimen>
+    <dimen name="no_img_card_item_height">160dp</dimen>
+    <dimen name="reminder_card_item_height">120dp</dimen>
+    <dimen name="my_hand_selection_hack">44dp</dimen>
+    <dimen name="my_hand_intro_selection_hack">108dp</dimen>
+
+    <dimen name="progress_no_data_height">128dp</dimen>
+    <dimen name="symptom_list_item_height">96dp</dimen>
+    <dimen name="home_chip_min_height">64dp</dimen>
+
+    <dimen name="line_progress_indicator_trackThickness">20dp</dimen>
+    <dimen name="line_progress_indicator_trackCornerRadius">40dp</dimen>
+
+    <dimen name="home_list_item_height">280dp</dimen>
+
+    <dimen name="slider_eq5d_thumb_radius">40dp</dimen>
+
+    <dimen name="circle_size_2000dp">4000dp</dimen>
+    <dimen name="circle_radius_intro_02_880dp">1760dp</dimen>
+    <dimen name="circle_radius_intro_03_600dp">1200dp</dimen>
+    <dimen name="circle_radius_intro_04_850dp">1700dp</dimen>
+    <dimen name="circle_radius_intro_05_780dp">1560dp</dimen>
+    <dimen name="circle_radius_intro_06_750dp">1500dp</dimen>
+    <dimen name="circle_radius_intro_07_820dp">1640dp</dimen>
+    <dimen name="circle_radius_intro_08_890dp">1780dp</dimen>
+    <dimen name="circle_radius_intro_09_840dp">1680dp</dimen>
+    <dimen name="circle_radius_intro_10_750dp">1500dp</dimen>
+    <dimen name="circle_radius_intro_11_880dp">1760dp</dimen>
+    <dimen name="margin_from_circle_11_120dp">240dp</dimen>
+    <dimen name="circle_radius_intro_12_930dp">1860dp</dimen>
+    <dimen name="margin_from_circle_12_70dp">140dp</dimen>
+    <dimen name="circle_radius_intro_13_930dp">1860dp</dimen>
+    <dimen name="circle_radius_intro_14_930dp">1860dp</dimen>
+    <dimen name="margin_from_circle_14_70dp">140dp</dimen>
+    <dimen name="circle_radius_intro_15_930dp">1800dp</dimen>
+    <dimen name="circle_radius_intro_16_790dp">1580dp</dimen>
+    <dimen name="margin_from_circle_16_210dp">420dp</dimen>
+    <dimen name="circle_radius_intro_17_790dp">1580dp</dimen>
+    <dimen name="margin_from_circle_17_210dp">420dp</dimen>
+    <dimen name="circle_radius_intro_18_650dp">1300dp</dimen>
+    <dimen name="circle_radius_intro_19_790dp">1580dp</dimen>
+    <dimen name="circle_radius_intro_20_700dp">1400dp</dimen>
+    <dimen name="margin_from_circle_20_300dp">600dp</dimen>
+    <dimen name="circle_radius_intro_21_650dp">1300dp</dimen>
+    <dimen name="margin_from_circle_21_350dp">700dp</dimen>
+    <dimen name="circle_radius_intro_22_950dp">1900dp</dimen>
+    <dimen name="circle_radius_intro_23_550dp">1100dp</dimen>
+    <dimen name="margin_from_circle_23_450dp">900dp</dimen>
+    <dimen name="circle_radius_intro_24_750dp">1500dp</dimen>
+    <dimen name="margin_from_circle_24_250dp">500dp</dimen>
+    <dimen name="margin_intro_04_vertical_200dp">400dp</dimen>
+    <dimen name="margin_intro_04_horizontal_130dp">260dp</dimen>
+    <dimen name="margin_intro_05_vertical_150dp">300dp</dimen>
+    <dimen name="margin_intro_06_vertical_250dp">500dp</dimen>
+    <dimen name="margin_intro_07_vertical_460dp">920dp</dimen>
+    <dimen name="margin_intro_08_vertical_280dp">560dp</dimen>
+    <dimen name="margin_intro_08_horizontal_130dp">260dp</dimen>
+    <dimen name="margin_intro_09_vertical_180dp">360dp</dimen>
+    <dimen name="margin_intro_09_horizontal_130dp">260dp</dimen>
+    <dimen name="margin_intro_10_vertical_230dp">460dp</dimen>
+    <dimen name="margin_intro_11_vertical_40dp">80dp</dimen>
+    <dimen name="margin_intro_11_horizontal_70dp">140dp</dimen>
+    <dimen name="margin_intro_12_vertical_190dp">380dp</dimen>
+    <dimen name="margin_intro_12_horizontal_60dp">120dp</dimen>
+    <dimen name="margin_intro_13_vertical_190dp">380dp</dimen>
+    <dimen name="margin_intro_14_vertical_190dp">380dp</dimen>
+    <dimen name="margin_intro_15_vertical_190dp">380dp</dimen>
+    <dimen name="margin_intro_15_horizontal_110dp">220dp</dimen>
+    <dimen name="margin_intro_16_vertical_170dp">340dp</dimen>
+    <dimen name="margin_intro_17_vertical_170dp">340dp</dimen>
+    <dimen name="margin_intro_18_vertical_150dp">300dp</dimen>
+    <dimen name="margin_intro_19_vertical_100dp">200dp</dimen>
+    <dimen name="margin_intro_22_vertical_400dp">800dp</dimen>
+    <dimen name="margin_intro_22_horizontal_60dp">120dp</dimen>
+    <dimen name="margin_intro_22_vertical_150dp">300dp</dimen>
+    <dimen name="margin_intro_24_vertical_150dp">300dp</dimen>
+</resources>

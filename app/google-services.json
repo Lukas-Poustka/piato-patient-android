@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "52425547896",
+    "project_id": "piato-patient",
+    "storage_bucket": "piato-patient.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52425547896:android:f555d55b7dca8948f5cd8d",
+        "android_client_info": {
+          "package_name": "de.piatohealth.patient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "52425547896-dvckl57kbn2t6dhlglb2gmics299m2ul.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvZjneLS3qKVtUj5uH_DoucxcavxxWGWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "52425547896-dvckl57kbn2t6dhlglb2gmics299m2ul.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "52425547896-3cg93p309191f194jaliuaf3a1ivnng8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "de.piatohealth.PiatoPatient"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

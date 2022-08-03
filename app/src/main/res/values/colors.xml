@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="green_25">#BCDEE2</color>
+    <color name="green_50">#7CBEC7</color>
+    <color name="green_100">#4B8E96</color>
+    <color name="green_default">#4B8E96</color>
+    <color name="green_dark">#005457</color>
+    <color name="green_200">#156068</color>
+    <color name="green_250">#005457</color>
+
+    <color name="green_200_alpha_08">#cc156068</color>
+    <color name="green_alpha_08">#cc437f84</color>
+
+    <color name="gray_10">#EEEEEE</color>
+    <color name="gray_25">#D6D6D6</color>
+    <color name="gray_50">#AFAFAF</color>
+    <color name="gray_100">#808080</color>
+    <color name="gray_200">#545454</color>
+    <color name="gray_250">#333333</color>
+
+    <color name="gray_100_alpha_06">#66000000</color>
+    <color name="gray_100_alpha_04">#44000000</color>
+
+
+    <color name="pain">#C42752</color>
+    <color name="thirsty">#3BB3D8</color>
+    <color name="infusion">#A82BD9</color>
+    <color name="toilette">#3BD8AD</color>
+    <color name="other">#808080</color>
+
+    <color name="pain_frame">#FF0044</color>
+    <color name="infusion_frame">#D900FF</color>
+    <color name="toilette_frame">#00FFB9</color>
+
+    <color name="red">#ff0000</color>
+    <color name="red_25">#f4d4d9</color>
+
+    <color name="blue_link">#0052cc</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="transparent_shadow">#66000000</color>
+
+    <color name="transparent_dark_shadow">#bb000000</color>
+
+    <color name="transparent">#00000000</color>
+</resources>

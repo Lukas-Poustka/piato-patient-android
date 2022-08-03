@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PIATO Patient</string>
+    <string name="default_notification_channel_id">default_notification_channel_id</string>
+    <string name="intro_01_title">Digital gut versorgt in unserem Krankenhaus!</string>
+    <string name="intro_01_text">PIATO unterstützt Sie bei Ihrem Aufenthalt. Unsere Pflegekräfte freuen sich, wenn Sie aktiv mitwirken und sie in ihrer Arbeit entlasten.</string>
+    <string name="intro_01_condition">Ich habe die Datenschutzbestimmungen und die Nutzungsbedingungen gelesen und stimme beiden zu.</string>
+    <string name="set_up_now">Jetzt einrichten</string>
+    <string name="intro_02_title">Bei PIATO anmelden</string>
+    <string name="intro_02_text">Die Anmeldung bei PIATO ist einfach. Bitte erzeugen Sie über die unten aufgeführte Taste einen QR-Code. Lassen Sie diesen von einer Pflegekraft abscannen.</string>
+    <string name="generate_qr_code">QR-Code erzeugen</string>
+</resources>
